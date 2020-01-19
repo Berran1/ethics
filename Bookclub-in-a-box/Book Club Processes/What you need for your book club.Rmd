@@ -1,6 +1,6 @@
 ---
 title: "What you need for the book club - processes and planning"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
